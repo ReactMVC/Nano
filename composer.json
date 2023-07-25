@@ -1,6 +1,6 @@
 {
     "name": "darkphp/nano",
-    "type": "framework",
+    "type": "project",
     "description": "Telegram bot framework written in PHP.",
     "keywords": ["bot", "telegram"],
     "license": "GPL-3.0",
