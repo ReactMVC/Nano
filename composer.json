@@ -1,0 +1,17 @@
+{
+    "name": "darkphp/nano",
+    "type": "framework",
+    "description": "Telegram bot framework written in PHP.",
+    "keywords": ["bot", "telegram"],
+    "license": "GPL-3.0",
+    "authors": [
+        {"name": "Hossein Pira", "email": "h3dev.pira@gmail.com"}
+    ],
+    "require": {
+        "php": ">=5.4",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "files": ["src/Nano.php"]
+    }
+}
